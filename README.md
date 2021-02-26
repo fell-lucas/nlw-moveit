@@ -130,7 +130,7 @@ Project Link: [https://github.com/fell-lucas/nlw-moveit](https://github.com/fell
 ## Acknowledgements
 
 * [Rocketseat](https://rocketseat.com.br)
-* [Diego](https://www.linkedin.com/in/diego-schell-fernandes/)
+* [Diego Fernandes](https://www.linkedin.com/in/diego-schell-fernandes/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
