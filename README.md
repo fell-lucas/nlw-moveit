@@ -122,7 +122,7 @@ The application is very straightforward. Just click on "Start Cycle", and go do 
 
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - lucasafell@gmail.com
+Lucas Alexandre Fell - [@lucas-fell](https://www.linkedin.com/in/lucas-fell/) - lucasafell@gmail.com
 
 Project Link: [https://github.com/fell-lucas/nlw-moveit](https://github.com/fell-lucas/nlw-moveit)
 
