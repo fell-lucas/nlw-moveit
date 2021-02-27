@@ -38,7 +38,7 @@
   <h3 align="center">Move it</h3>
 
   <p align="center">
-    Move it is an application written during the event Next Level Week #4 by Rocketseat. It started at the day 22/02/2020 and ended at 26/02/2020. This was a write-along project, and it is purely educational.
+    Move it is an application written during the event Next Level Week #4 by Rocketseat. It started at the day 22/02/2021 and ended at 26/02/2021. This was a write-along project, and it is purely educational.
     <br />
     <br />
     <a href="https://moveit-sooty.vercel.app">View Demo</a>
